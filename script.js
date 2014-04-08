@@ -53,7 +53,6 @@ var Nodes = {
     this.canvas = document.getElementById( 'canvas' );
     this.context = canvas.getContext( '2d' );
     this.context.globalCompositeOperation = "lighter";
-    console.log({width:window.innerWidth, height:window.innerHeight});
     this.canvas.width = 400;
     this.canvas.height = 700;
     this.canvas.style.display = 'block'
