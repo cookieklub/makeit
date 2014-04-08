@@ -14,7 +14,7 @@ body {
 }
 .bck{
 	z-index: -1000;
-	opacity: 0.6;
+	opacity: 0.4;
 	background-image:url('assets/lines_pattern.jpg');
 	background-size: 12px;
 	width: 100%;
@@ -30,7 +30,7 @@ body {
 	margin: auto;
 	text-align: center;
 	position: absolute;
-	top: 60%;
+	top: 360px;
 }
 .title h1{
 	font-size: 30px;
@@ -59,5 +59,5 @@ footer{
 	font-size: 30px;
 	margin: 0px;
 	/*margin-bottom: 20px;*/
-	margin-top: -80px;
+	/*margin-top: -80px;*/
 }
