@@ -11,6 +11,7 @@ body {
   margin: 0px;
   overflow: hidden;
   font-family: 'hnl';
+  font-weight: normal;
 }
 .bck{
 	z-index: -1000;
@@ -26,6 +27,7 @@ body {
 	left: 0px;
 }
 .title{
+	font-weight: normal;
 	width: 100%;
 	margin: auto;
 	text-align: center;
@@ -33,20 +35,24 @@ body {
 	top: 360px;
 }
 .title h1{
+	font-weight: normal;
 	font-size: 30px;
 	margin: 0px;
 	padding: 0px;
 	margin-bottom: 20px;
 }
 .title h2{
+	font-weight: normal;
 	margin: 0px;
 	padding: 0px;
 }
 .title h5{
 	margin: 0px;
 	padding: 0px;
+	font-weight: normal;
 }
 footer{
+	font-weight: normal;
 	margin: auto;
 	position: absolute;
 	bottom: 20px;
@@ -57,6 +63,7 @@ footer{
 footer strong{
 	font-size: 14px;
 	font-family: 'hnt';
+	font-weight: normal;
 }
 .make-it{
 	font-family: 'hnt';
